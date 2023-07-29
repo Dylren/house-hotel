@@ -1,2 +1,2 @@
 # house-hotel
-First HTML/CSS/SASS project
+First HTML/CSS/SASS school project
